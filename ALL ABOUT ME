@@ -1,0 +1,20 @@
+# Justin-s-Website.github.io
+My website with a few games! 
+<DOCTYPE!html>
+<html>
+<head>
+<style>
+	#paragraph-1{
+	color: blue;	
+	}
+</style>
+<title>Justin Liu's main webpage</title>
+</head>
+<body>
+<h1>Justin Liu's webpage.</h1>
+<p id = paragraph-1>Hello and welcooooooome to my very own website!
+ My name is Justin Liu and I am from China.<br>
+Have You ever learnt C, C# or C++? WAY TO HARD for me. But maybe not for you. I have learnt Javascript, HTML, CSS and Python. But I am learning programming languages one by one until I reach C++. Want to learn a bit of the programming language I am dreaming of making when I grow up? To output something you do Output.to.terminal(message). If you want to play tic-tac-toe, <a href="https://www.google.com/search?q=tic+tac+toe&rlz=1C1CHBF_en-GBGB895GB896&oq=t&aqs=chrome.1.69i60j69i59l2j69i60l5.1784j1j7&sourceid=chrome&ie=UTF-8">Click Here. </a> If you want to play pong, <a href="https://www.ponggame.org/"> Click here</a>. Want to play Space Invaders? <a href = "https://www.andoverpatio.co.uk/21/space-invaders/">Click Here.</a> <a href = "https://www.free80sarcade.com/donkeykong.php">Click here to play Donkey Kong</a> Want to go on an adventure? Then click <a href = "https://chooseyourstory.com/">here</a>.
+</p>
+</body>
+</html>
